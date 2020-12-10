@@ -90,6 +90,8 @@ export default function InteractiveList() {
                 <ListItem>
                   <ListItemIcon>
                     <RadioButtonUncheckedIcon />
+                    <RadioButtonUncheckedIcon />
+                    <RadioButtonUncheckedIcon />
                   </ListItemIcon>
                   <ListItemText
                     primary="Single-line item"
